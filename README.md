@@ -3,6 +3,10 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🛠️ Profissional de **Suporte Técnico**  
 🚀 Apaixonado por tecnologia e sempre explorando novas stacks  
+🚀 Estudante da Rocketseat
+🚀 Estudante da UniALfa Umuarama
+
+
 
 ---
 
