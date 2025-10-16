@@ -30,7 +30,6 @@
 ![Ville's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=VilleSilva&theme=radical)](https://git.io/streak-stats) 
-![Ville's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=radical&commits_year=2025)
 
 
 ---
