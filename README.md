@@ -22,34 +22,3 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
-
----
-
-## 📊 Minhas estatísticas no GitHub  
-
-![Ville's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=VilleSilva&theme=radical)](https://git.io/streak-stats) 
-
-
----
-
-## 🏆 Troféus do GitHub  
-![Trophy](https://github-profile-trophy.vercel.app/?username=VilleSilva&theme=radical&row=1&column=6)
-
----
-
-## 🐍 Snake Game dos commits  
-![Snake animation](https://github.com/VilleSilva/VilleSilva/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌎 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/SEU_LINKEDIN)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:SEU_EMAIL@gmail.com)  
-
----
-
-![Visitas](https://komarev.com/ghpvc/?username=VilleSilva&color=blue&style=flat-square)
-
-⭐ Feito com dedicação por **Ville Nunes**
