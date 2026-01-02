@@ -131,24 +131,3 @@
 
 ---
 
-
-
-
-## 📈 Estatísticas de Commits
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=500&lines=Meus+commits+no+GitHub+%F0%9F%93%9D" alt="Typing SVG" />
-  
-  ![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=github-compact&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true)
-  
-</div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true&hide=stars,prs,issues" alt="Commits Stats" />
-  
-</div>
-
----
-
