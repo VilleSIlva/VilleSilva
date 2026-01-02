@@ -1,0 +1,42 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Atualiza a cobrinha todos os dias à meia-noite UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Dark
+        uses: Platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: VilleSilva
+          svg_out_path: output/github-contribution-grid-snake-dark.svg
+
+      - name: Generate Snake Light
+        uses: Platane/snk@master
+        id: snake-gif-light
+        with:
+          github_user_name: VilleSilva
+          svg_out_path: output/github-contribution-grid-snake.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git diff --staged --quiet || git commit -m "Generate snake animation [skip ci]"
+          git push
+
