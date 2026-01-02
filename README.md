@@ -7,8 +7,8 @@
 
 <div align="justify">
   
-🎓 **Computer Science Student** at UniALfa Umuarama  
 🛠️ **Fullstack Developer** passionate about technology and innovation  
+🎓 **Computer Science Student** at UniALfa Umuarama  
 🚀 **Rocketseat Student** - always learning and constantly evolving  
 
 </div>
