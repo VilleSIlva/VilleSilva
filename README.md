@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Ville+Nunes!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Ville+Nunes!+🚀&color=ffffffbackground=0D111700" />
 </div>
 
 <div align="center">
@@ -81,35 +81,6 @@
 
 ---
 
-## 📈 Gráficos de Atividade
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6)
-  
-</div>
-
-
----
-
-## 🎯 Contribuições e Estatísticas Detalhadas
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VilleSilva&limit=5&theme=tokyo&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
-</div>
-
-
----
-
-## 📚 Projetos em Destaque
-
-<div align="center">
-  
-  <!-- Adicione seus projetos aqui quando tiver repositórios públicos -->
-  <!-- Exemplo: -->
-  <!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VilleSilva&repo=seu-repositorio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6)](https://github.com/VilleSilva/seu-repositorio) -->
-  
-</div>
 
 ## 💼 Experiência e Habilidades
 
@@ -125,44 +96,7 @@
   
 </div>
 
----
 
-## 🏆 Conquistas e Badges
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=VilleSilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Badges](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Rocketseat](https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=rocketseat&logoColor=white)
-  
-</div>
-
----
-
-## 📊 Estatísticas de Linguagens
-
-<div align="center">
-  
-  ![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
-  
-  ![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
-  
-</div>
-
-<div align="center">
-  
-  ![Language Details](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10&exclude_repo=github-readme-stats)
-  
-</div>
-
----
 
 ## 📫 Conecte-se Comigo
 
@@ -200,42 +134,21 @@
 
 
 
+## 📈 Estatísticas de Commits
+
 <div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=500&lines=Meus+commits+no+GitHub+%F0%9F%93%9D" alt="Typing SVG" />
   
   ![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=github-compact&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true)
   
 </div>
 
----
-
-## 🎮 Status do Perfil
-
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=VilleSilva&color=5CE1E6&style=for-the-badge)
-  
-</div>
-
-<div align="center">
-  
-  ### ⚡️ "Código é poesia escrita em lógica" ⚡️
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvendo+o+futuro...;+Uma+linha+de+código+de+cada+vez!+💻)
-  
-</div>
-
-<div align="center">
-  
-  ![Ville's GitHub Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado+por+visitar!+👋&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true&hide=stars,prs,issues" alt="Commits Stats" />
   
 </div>
 
 ---
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-  
-</div>
-
 
