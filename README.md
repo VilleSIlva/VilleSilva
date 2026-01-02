@@ -19,9 +19,10 @@
 
 <div align="center">
   
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,python,ts,nodejs,react,vue,laravel,php,docker,flask,tailwind,bootstrap,express)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,python,ts,nodejs,react,vue,laravel,php,docker,flask,tailwind,bootstrap,express,redis,rabbitmq,composer,linux)
   
 </div>
+
 
 ---
 
