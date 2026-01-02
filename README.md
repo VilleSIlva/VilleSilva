@@ -4,11 +4,7 @@
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VilleSilva/VilleSilva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VilleSilva/VilleSilva/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
 </div>
 
@@ -18,7 +14,7 @@
 
 <div align="center">
   
-  ![Ville's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ville%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+  ![Ville's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5CE1E6,100:0D1117&height=180&section=header&text=Ville%20Nunes&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
   
 </div>
 
@@ -35,11 +31,11 @@
 
 <div align="center">
   
-  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true" />
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com?user=VilleSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" />
+  ![Ville's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true)
   
-  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10" />
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&hide=prs,issues" />
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=VilleSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10)
   
 </div>
 
@@ -67,6 +63,7 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=fff&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff&style=for-the-badge)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
@@ -88,7 +85,7 @@
 
 <div align="center">
   
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6)
   
 </div>
 
@@ -98,10 +95,9 @@
 ## 🎯 Contribuições e Estatísticas Detalhadas
 
 <div align="center">
-  
-  <img alt="GitHub Contributions" src="https://github-contributor-stats.vercel.app/api?username=VilleSilva&limit=5&theme=tokyo&combine_all_yearly_contributions=true" />
-  
+  <img src="https://github-contributor-stats.vercel.app/api?username=VilleSilva&limit=5&theme=tokyo&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 </div>
+
 
 ---
 
@@ -125,6 +121,7 @@
   | Next.js ⚡ | NestJS 🪺 | Linux 🐧 | VS Code 💻 |
   | TypeScript 📘 | Express 🚀 | CI/CD 🔄 | Figma 🎨 |
   | TailwindCSS 🎨 | Laravel 🔴 | AWS ☁️ | Postman 📮 |
+  | - | Flask 🐍 | - | - |
   
 </div>
 
@@ -134,7 +131,7 @@
 
 <div align="center">
   
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=VilleSilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  ![trophy](https://github-profile-trophy.vercel.app/?username=VilleSilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
   
 </div>
 
@@ -153,14 +150,15 @@
 
 <div align="center">
   
-  <img width="49%" alt="Top Languages Donut" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF" />
-  <img width="49%" alt="Top Languages Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF" />
+  ![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
+  
+  ![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&langs_count=8&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
   
 </div>
 
 <div align="center">
   
-  <img alt="Language Details" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10&exclude_repo=github-readme-stats" />
+  ![Language Details](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10&exclude_repo=github-readme-stats)
   
 </div>
 
@@ -204,7 +202,7 @@
 
 <div align="center">
   
-  <img alt="GitHub commit activity" src="https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=github-compact&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true" />
+  ![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=VilleSilva&theme=github-compact&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true)
   
 </div>
 
@@ -236,11 +234,7 @@
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VilleSilva/VilleSilva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VilleSilva/VilleSilva/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
   
 </div>
 
