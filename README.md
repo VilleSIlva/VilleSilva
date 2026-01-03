@@ -31,12 +31,9 @@
 
 <div align="center">
   
-  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&include_all_commits=true&count_private=true" />
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com?user=VilleSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" />
-  
-  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF&langs_count=10" />
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&hide=prs,issues" />
-  
+  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VilleSilva&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
+  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VilleSilva&layout=compact&theme=tokyonight" />
+    
 </div>
 
 ---
